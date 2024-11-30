@@ -2,7 +2,7 @@
 <head> <title> HOME </title> 
 <link rel="stylesheet" href="style.css" type="text/css"/>
 </head>
-<body bgcolor="#a3b18a">
+<body>
 <a href="https://ccsarra.github.io/ccgsarra.github.io/">
 <h3><u><i>my 1st qtr portfolio!</u> </i></h3> </a>
 <h1> welcome (˶˃ ᵕ ˂˶) .ᐟ.ᐟ</h1>
